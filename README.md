@@ -11,11 +11,13 @@ Thanks for your suggestions / feedback (cybrdad@outlook.com).
 If you are a super profi trader, and if I made some mistake or error, let me know.
 <br/>
 I stress-tested the programme by managing more than 400 trades. Not all of them carried an image, and it ran flawlessly.
+<br/>
+My thoughts were to create one project per scalping session (about 500 trades max or monthly session) and projects for swing trading.
 <br/><br/>
 
 
 ### User manual
-<br/><br/>
+<br/>
 
 Open or create a project
 <img width="868" height="532" alt="02-create_project" src="https://github.com/user-attachments/assets/b3e51d47-c58c-4e5a-800d-8530ccc742ac" />
@@ -35,6 +37,8 @@ to edit a trade, click on the padlock on the left
 On the graph enable / disable the pip curve
 <br/>
 <img width="621" height="358" alt="13-show_hide_pip_graph" src="https://github.com/user-attachments/assets/66bb2bab-6525-4a6c-ace2-713673961ea5" />
+<br/>
+you can zoom in/out the curves with the mouse wheel
 <br/><br/>
 
 Switch panel Trade / Journaling (icon on the upper left corner of the trades panel)
