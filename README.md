@@ -16,7 +16,7 @@ My thoughts were to create one project per scalping session (about 500 trades ma
 <br/><br/>
 
 
-### User manual
+### Using manual
 <br/>
 
 Open or create a project
