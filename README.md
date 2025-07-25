@@ -14,7 +14,7 @@ I stress-tested the programme by managing more than 400 trades. Not all of them 
 <br/><br/>
 
 
-###User manual
+### User manual
 <br/><br/>
 
 Open or create a project
