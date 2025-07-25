@@ -21,6 +21,8 @@ Add a new trade and edit its properties, or delete a trade (right click on a lin
 <br/>
 <img width="375" height="274" alt="14-create_new_trade" src="https://github.com/user-attachments/assets/c613d9a4-e223-4da5-8f41-2d4fe25aaf80" />
 <br/>
+to edit a trade, click on the padlock on the left
+<br/>
 <img width="584" height="381" alt="07-trade_editing" src="https://github.com/user-attachments/assets/6d362827-a4ed-428f-88ab-79d6a76bd9a7" />
 <br/><br/>
 
