@@ -6,7 +6,7 @@ It needs the dotnet framework v8 to run properly.
 
 Note: the backtest example project provided with the software does not reflect a real forex trading session, it is provided for demonstration purpose only.
 Thanks for your suggestions / feedback (cybrdad@outlook.com). If you are a super profi trader, and if I made some mistake or error, let me know.
-
+<br/>
 Open or create a project
 <img width="868" height="532" alt="02-create_project" src="https://github.com/user-attachments/assets/b3e51d47-c58c-4e5a-800d-8530ccc742ac" />
 
