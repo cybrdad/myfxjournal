@@ -60,7 +60,7 @@ Additionally create a new strategy plan and save it
 <br/>
 <img width="1472" height="810" alt="10-strategy_create" src="https://github.com/user-attachments/assets/451a763e-431b-4887-be6e-f9f9a6fd2509" />
 <br/>
-an +/- icon is displayed on the trade panel; clicking on it will switch between + and - as a visual sign, the + indicating that you followed your strategy, the - you somehow deviate from it
+an +/- icon is displayed on the trade panel; clicking on it will switch between + and - as a visual sign, the + indicating that you followed your strategy, the - you somehow deviated from it
 <br/><br/>
 
 add a notebook to collect your ideas (dont forget to save each new notebook you create)
