@@ -4,11 +4,17 @@ It needs the dotnet framework v8 to run properly.
 <br/>
 <img width="1478" height="843" alt="Screenshot" src="https://github.com/user-attachments/assets/c2ccc871-b927-4cbc-834f-aae51cf2154c" />
 <br/>
-Note: the backtest example project provided with the software does not reflect a real forex trading session, it is provided for demonstration purpose only.
+__Note: the backtest example project provided with the software does not reflect a real forex trading session, it is provided for demonstration purpose only.__
 <br/>
 Thanks for your suggestions / feedback (cybrdad@outlook.com). 
 <br/>
 If you are a super profi trader, and if I made some mistake or error, let me know.
+<br/>
+I stress-tested the programme by managing more than 400 trades. Not all of them carried an image, and it ran flawlessly.
+<br/><br/>
+
+
+###User manual
 <br/><br/>
 
 Open or create a project
@@ -34,7 +40,6 @@ On the graph enable / disable the pip curve
 Switch panel Trade / Journaling (icon on the upper left corner of the trades panel)
 <br/>
 <img width="1479" height="858" alt="05-journaling_panel" src="https://github.com/user-attachments/assets/879226c4-e23a-4f06-8b17-73d00575032e" />
-an +/- icon is displayed on the trade panel; clicking on it will switch between + and -, the + indicating that you followed your strategy, the - you somehow deviate from it
 <br/><br/>
 
 Switch panel Position Sizing / Picture (icon on the upper left corner) and drag an image in the rectangle box
@@ -50,9 +55,11 @@ Click on the image to enhance it
 Additionally create a new strategy plan and save it
 <br/>
 <img width="1472" height="810" alt="10-strategy_create" src="https://github.com/user-attachments/assets/451a763e-431b-4887-be6e-f9f9a6fd2509" />
+<br/>
+an +/- icon is displayed on the trade panel; clicking on it will switch between + and - as a visual sign, the + indicating that you followed your strategy, the - you somehow deviate from it
 <br/><br/>
 
-add a notebook to collect your ideas (dont forge to save it)
+add a notebook to collect your ideas (dont forget to save each new notebook you create)
 <br/>
 <img width="1472" height="831" alt="11-notebook_create" src="https://github.com/user-attachments/assets/bf57901f-af63-46de-9973-b4f54c35ac02" />
 <br/><br/>
