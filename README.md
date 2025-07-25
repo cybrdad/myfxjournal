@@ -31,7 +31,7 @@ On the graph enable / disable the pip curve
 <img width="621" height="358" alt="13-show_hide_pip_graph" src="https://github.com/user-attachments/assets/66bb2bab-6525-4a6c-ace2-713673961ea5" />
 <br/><br/>
 
-Switch panel Trade / Journaling (icon on the upper left corner)
+Switch panel Trade / Journaling (icon on the upper left corner of the trades panel)
 <br/>
 <img width="1479" height="858" alt="05-journaling_panel" src="https://github.com/user-attachments/assets/879226c4-e23a-4f06-8b17-73d00575032e" />
 an +/- icon is displayed on the trade panel; clicking on it will switch between + and -, the + indicating that you followed your strategy, the - you somehow deviate from it
