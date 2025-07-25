@@ -7,14 +7,24 @@ It needs the dotnet framework v8 to run properly.
 Note: the backtest example project provided with the software does not reflect a real forex trading session, it is provided for demonstration purpose only.
 Thanks for your suggestions / feedback (cybrdad@outlook.com). If you are a super profi trader, and if I made some mistake or error, let me know.
 <br/>
+<br/>
+
 Open or create a project
 <img width="868" height="532" alt="02-create_project" src="https://github.com/user-attachments/assets/b3e51d47-c58c-4e5a-800d-8530ccc742ac" />
 
 note: as the first launch of the programme a backtest example project is created so that you can play with 
+<br/>
+<br/>
 
 Add a new trade and edit, or delete a trade (right click on a line of the datagrid)
+<br/>
+
 <img width="375" height="274" alt="14-create_new_trade" src="https://github.com/user-attachments/assets/c613d9a4-e223-4da5-8f41-2d4fe25aaf80" />
+<br/>
+
 <img width="584" height="381" alt="07-trade_editing" src="https://github.com/user-attachments/assets/6d362827-a4ed-428f-88ab-79d6a76bd9a7" />
+<br/>
+<br/>
 
 On the graph enable / disable the pip curve
 <img width="621" height="358" alt="13-show_hide_pip_graph" src="https://github.com/user-attachments/assets/66bb2bab-6525-4a6c-ace2-713673961ea5" />
