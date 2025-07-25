@@ -4,7 +4,7 @@ It needs the dotnet framework v8 to run properly.
 <br/>
 <img width="1478" height="843" alt="Screenshot" src="https://github.com/user-attachments/assets/c2ccc871-b927-4cbc-834f-aae51cf2154c" />
 <br/>
-__Note: the backtest example project provided with the software does not reflect a real forex trading session, it is provided for demonstration purpose only.__
+__Note: the backtest example project provided with the programme does not reflect a real forex trading session, it is provided for demonstration purpose only.__
 <br/>
 Thanks for your suggestions / feedback (cybrdad@outlook.com). 
 <br/>
