@@ -15,14 +15,13 @@ My thoughts were to create one project per scalping session (about 500 trades ma
 
 
 #### Using manual
-<br/>
 
 Open or create a project
 <img width="868" height="532" alt="02-create_project" src="https://github.com/user-attachments/assets/b3e51d47-c58c-4e5a-800d-8530ccc742ac" />
 <br/>
 At the first start of the programme a backtest example project is created so that you can play with.
 <br/>
-__Note: the backtest example project provided with the programme does not reflect a real forex trading session, it is provided for demonstration purpose only.__
+__Note: the backtest example project  does not reflect a real forex trading session, it is provided for demonstration purpose only.__
 <br/><br/>
 
 Add a new trade and edit its properties, or delete a trade (right click on a line of the datagrid)
